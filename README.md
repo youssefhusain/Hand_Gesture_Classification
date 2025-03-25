@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on recognizing hand gestures using machine learning techniques. It processes hand landmark data, performs feature engineering, applies various classification models, and evaluates their performance to achieve optimal results.
 ---
-![Video_output](https://github.com/user-attachments/assets/af3e5cc8-03a4-42f9-834e-946ef5cb2fd7)
+![Video_output](img.gif)
 ---
 ## 📂 Dataset
 - The dataset consists of hand landmark coordinates (x, y) extracted from images.
