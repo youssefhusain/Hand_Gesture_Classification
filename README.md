@@ -2,9 +2,10 @@
 
 ## 📌 Project Overview
 This project focuses on recognizing hand gestures using machine learning techniques. It processes hand landmark data, performs feature engineering, applies various classification models, and evaluates their performance to achieve optimal results.
----
-![Video_output](https://youtu.be/gJlkahMx8ZU)
----
+
+## 🎥 Video Demonstration
+[![Video_output](https://youtu.be/gJlkahMx8ZU)](https://youtu.be/gJlkahMx8ZU)
+
 ## 📂 Dataset
 - The dataset consists of hand landmark coordinates (x, y) extracted from images.
 - The dataset is preprocessed by normalizing coordinates relative to the wrist position and balancing classes using SMOTE.
@@ -68,4 +69,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📜 License
 This project is open-source and available under the MIT License.
-
