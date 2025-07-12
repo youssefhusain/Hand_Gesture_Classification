@@ -1,5 +1,6 @@
 # Hand Gesture Recognition using Machine Learning
 
+
 ## 📌 Project Overview
 This project focuses on recognizing hand gestures using machine learning techniques. It processes hand landmark data, performs feature engineering, applies various classification models, and evaluates their performance to achieve optimal results.
 
