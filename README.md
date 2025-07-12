@@ -60,13 +60,4 @@ Each model's accuracy was assessed using a test set. The final results:
    ```
 4. Evaluate results and visualize predictions.
 
-## 🚀 Future Enhancements
-- Implement deep learning models (CNNs) for improved accuracy.
-- Optimize feature selection and engineering.
-- Deploy as a real-time application using Flask or FastAPI.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📜 License
-This project is open-source and available under the MIT License.
